@@ -1,0 +1,42 @@
+.fampic{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.selfpic{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.laxpic{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn{
+    color: lavenderblush;
+}
+
+.subheading{
+    color:wheat;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.subheadingg{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration:underline ;
+    background-color: white;
+}
+
+.about{
+    border: 5px;
+    border-style: dotted;
+}
